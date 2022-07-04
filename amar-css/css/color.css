@@ -1,0 +1,41 @@
+div.main #color1{
+
+     background-color: red;
+     padding: 10px;
+    margin-left: 1em;
+     width: 50%;
+     border: 2px solid black;
+}
+div.main #color2{
+
+     background-color:green;
+     background-image:url(https://yt3.ggpht.com/d2riaFAg7XnIJFd-JGWdq7O-AJRVYlpM08ROsinKFKjge6EptAiIjyyPojLElDdLrI1MsgQw9DQ=s900-c-k-c0x00ffffff-no-rj);
+     padding: 10px;
+    margin-left: 50px;
+     width: 50%;
+     border: 2px solid black;
+}
+div.main #color3{
+
+     background-color: navajowhite;
+}
+div.main #color4{
+
+     background-color: teal;
+}
+div.main #color5{
+
+     background-color:skyblue;
+}
+div.main #color6{
+
+     background-color: blue;
+}
+div.main #color7{
+
+     background-color:hotpink;
+}
+div.main #color8{
+
+     background-color: green;
+}

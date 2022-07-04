@@ -1,0 +1,28 @@
+*{
+    background-color: rebeccapurple;
+}
+h1, p, span{
+
+    background-color: green;
+    padding: 10px 20px;
+}
+
+
+body{
+
+      background-color: rgb(65, 101, 133);
+}
+
+h1{
+    
+    text-align: center;
+}
+p{
+    font-size: 2rem;
+    text-align: center;
+    color: darkblue;
+}
+#first-paragraph{
+
+    text-align: left;
+}
